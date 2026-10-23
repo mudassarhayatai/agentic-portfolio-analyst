@@ -1,0 +1,14 @@
+db_path: "data/demo.db"
+
+agent_variant: "langgraph"  # react or langgraph
+
+ollama_model: "qwen3.5:0.8b"
+ollama_host: "http://localhost:11434"
+
+use_reflection: true
+
+max_iterations: 8
+max_tool_calls: 10
+
+tool_timeout_seconds: 90
+run_timeout_seconds: 180
