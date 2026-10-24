@@ -106,3 +106,7 @@ agentic-portfolio-analyst/
 └── tests/                       # pytest suite, Sections 1-6
 ```
 
+
+<p align="center">
+  <img src="docs/agentic-portfolio-analyst-demo.webm" alt="Demo" width="300"/>
+</p>
